@@ -1,0 +1,11 @@
+<framework>
+	<execution>
+		<clock enabled="true" unit="hz" value="100" />
+	</execution>
+	<modulesToEnable>
+            <module logLevel="DEBUG">inheritance_checker</module>
+	</modulesToEnable>
+	<module>
+                <name>inheritance_checker</name>
+        </module>
+</framework>
