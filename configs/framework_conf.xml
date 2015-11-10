@@ -4,7 +4,12 @@
 	</execution>
 	<modulesToEnable>
             <module logLevel="DEBUG">inheritance_checker</module>
+            <module logLevel="DEBUG">inheritance_checker1</module>
 	</modulesToEnable>
+
+        <module>
+                <name>inheritance_checker1</name>
+        </module>
 	<module>
                 <name>inheritance_checker</name>
         </module>

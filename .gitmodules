@@ -1,3 +1,9 @@
 [submodule "LMS"]
 	path = LMS
 	url = https://github.com/Phibedy/LMS
+[submodule "external/libraries/imaging"]
+	path = external/libraries/imaging
+	url = https://github.com/lms-org/imaging
+[submodule "external/libraries/math_lib"]
+	path = external/libraries/math_lib
+	url = https://github.com/lms-org/math_lib
