@@ -2,11 +2,10 @@
 	<execution>
 		<clock enabled="true" unit="hz" value="100" />
 	</execution>
-	<modulesToEnable>
+        <modulesToEnable>
             <module logLevel="DEBUG">inheritance_checker</module>
             <module logLevel="DEBUG">inheritance_checker1</module>
 	</modulesToEnable>
-
         <module>
                 <name>inheritance_checker1</name>
         </module>

@@ -7,3 +7,6 @@
 [submodule "external/libraries/math_lib"]
 	path = external/libraries/math_lib
 	url = https://github.com/lms-org/math_lib
+[submodule "external/libraries/street_environment"]
+	path = external/libraries/street_environment
+	url = https://github.com/tum-phoenix/street_environment.git
